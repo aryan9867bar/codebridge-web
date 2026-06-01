@@ -60,6 +60,7 @@ npm install
 npm run dev
 ```
 
+The app will start at [http://localhost:5173](http://localhost:5173).
 
 ### Production build
 
